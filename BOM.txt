@@ -1,0 +1,13 @@
+R1: 680 kohm
+R2: 330 ohm
+R3: 1 kohm
+R4: Trimmer 1 Mohm
+R5: Trimmer 10 kohm
+C1: 100 nF 
+C2: 100 nF 
+C3: 100 nF 
+D1: 1N4007
+D2: 1N4007
+U1: LM1881
+SW1: switch
+RST: Microswitch
